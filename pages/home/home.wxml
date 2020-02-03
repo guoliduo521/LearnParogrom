@@ -1,5 +1,3 @@
 <!--pages/home/home.wxml-->
 <text class='title'>Hello World</text>
 <button size='mini'>按钮</button>
-<image src='https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3619261395,3379627666&fm=26&gp=0.jpg'></image>
-<input type='text'></input>
